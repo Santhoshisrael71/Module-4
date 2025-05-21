@@ -44,5 +44,5 @@ for key, value in sorted_items:
 
 ## Result
 
-Thus the program executed successfully.
+Python program executed successfully.
 
